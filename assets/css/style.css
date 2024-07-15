@@ -10,18 +10,14 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
-.Wrapper {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+/* .Wrapper {
   max-width: 1920px;
   min-height: 100vh;
   padding: 10px 0px;
-}
+} */
 
 .form-container {
-  width: 700px;
+  
   padding: 10px 20px;
   border-radius: 10px;
   box-shadow: 20px 20px 60px #ffffff48, -20px -20px 60px #ffffff41;
